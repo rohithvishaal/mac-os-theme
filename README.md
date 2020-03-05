@@ -23,3 +23,7 @@ resources can be downloaded from [here](https://drive.google.com/open?id=1DmAJkj
 `sudo update-initramfs -u`  
 3. Or you can use my python script [here](https://www.github.com/rohithvishaal/plymouth-changer) to do that for you.  
 ## that's it you have your mac os look alike desktop
+
+# preview
+![Desktop](https://github.com/rohithvishaal/mac-os-theme/blob/master/mac_look_alike.png)
+![Boot Logo](https://github.com/rohithvishaal/mac-os-theme/blob/master/screenshot.png)
