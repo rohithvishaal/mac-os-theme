@@ -20,5 +20,6 @@ resources can be downloaded from [here](https://drive.google.com/open?id=1DmAJkj
 2. run in terminal:  
 `sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/apple-mac-plymouth/apple-mac-plymouth.plymouth 100`  
 `sudo update-alternatives --config default.plymouth`  
-`sudo update-initramfs -u`
+`sudo update-initramfs -u`  
+3. Or you can use my python script [here](https://www.github.com/rohithvishaal/plymouth-changer) to do that for you.  
 ## that's it you have your mac os look alike desktop
